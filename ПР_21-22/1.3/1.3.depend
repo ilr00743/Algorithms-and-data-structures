@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607549555 source:d:\study\Алгоритми і структури даних\ПР_21-22\1.3\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+

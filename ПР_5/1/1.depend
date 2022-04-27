@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1601908470 source:c:\users\dimon\desktop\Учеба 3 курс\Алгоритми\05.10\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<math.h>
+
+1602059003 source:d:\study\Алгоритми і структури даних\ПР_5\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<locale.h>
+

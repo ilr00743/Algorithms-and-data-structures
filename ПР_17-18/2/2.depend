@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605784678 source:d:\study\Алгоритми і структури даних\ПР_17-18\2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

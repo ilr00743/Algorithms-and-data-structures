@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602703199 source:d:\study\Алгоритми і структури даних\ПР_6-7\3\main.c
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

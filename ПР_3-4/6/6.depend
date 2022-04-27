@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600807139 source:d:\study\Алгоритми і структури даних\ПР_3\6\main.cpp
+	<iostream>
+	<time.h>
+	<math.h>
+	<conio.h>
+
